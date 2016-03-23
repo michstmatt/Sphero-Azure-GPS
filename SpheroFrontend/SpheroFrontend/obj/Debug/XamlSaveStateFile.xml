@@ -1,0 +1,9 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\matt\desktop\spherofrontend\spherofrontend\obj\debug\intermediatexaml\spherofrontend.exe" HashGuid="22cbbf2a-94f6-203a-92d0-303e597224d8" />
+    <ReferenceAssembly PathName="c:\users\matt\desktop\spherofrontend\packages\microsoft.data.edm.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\microsoft.data.edm.dll" HashGuid="652859ac-63b5-9ab0-7a6b-0cb8dfcd265f" />
+    <ReferenceAssembly PathName="c:\users\matt\desktop\spherofrontend\packages\microsoft.data.odata.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\microsoft.data.odata.dll" HashGuid="4e84b0db-d22a-61af-6343-dd7cc7f44046" />
+    <ReferenceAssembly PathName="c:\users\matt\desktop\spherofrontend\packages\windowsazure.storage.4.4.1-preview\lib\wpa\microsoft.windowsazure.storage.dll" HashGuid="e9a9466b-93cf-df46-0ca2-1d2f033a39ed" />
+    <ReferenceAssembly PathName="c:\users\matt\desktop\spherofrontend\packages\system.spatial.5.6.2\lib\portable-net40+sl5+wp8+win8+wpa\system.spatial.dll" HashGuid="4e779b7f-3e1d-55d1-cac0-694ae2344f0d" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

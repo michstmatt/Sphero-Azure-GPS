@@ -1,0 +1,10 @@
+{
+  "name": "SpheroBackend",
+  "version": "0.0.0",
+  "description": "SpheroBackend",
+  "main": "app.js",
+  "author": {
+    "name": "Matt",
+    "email": ""
+  }
+}
